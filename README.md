@@ -1,2 +1,14 @@
 # ltgoldberg_HW_04
  HW_04
+
+<ul> <b> About My Bot: </b>
+    <li> My bot is intended to be used solely for CS40. </li>
+    <li> My bot is <i> intended </i> to support both biden but has the option of complimenting both candidated and even Barack Obama. </li>
+    <li> This bot consumed 80% of my brain power for two weeks. It feeds on stress. </li>
+</ul>
+
+<p> </p>
+<b> What the bot does: </b>
+<img src= "reddit_comment.png" alt= "reddit comment">
+I loved this comment because while its related to the original comment, its absurd enough to be stupidly funny. 
+<a href= "https://www.reddit.com/r/BotTown2/comments/r29czx/comment/hmfh0y5/?utm_source=reddit&utm_medium=web2x&context=3"> Here is the link if you want to see for yourself </a>
