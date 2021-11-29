@@ -3,7 +3,7 @@
 
 <ul> <b> About My Bot: </b>
     <li> My bot is intended to be used solely for CS40. </li>
-    <li> My bot is <i> intended </i> to support both biden but has the option of complimenting both candidated and even Barack Obama. </li>
+    <li> My bot is <i> intended </i> to support both biden but has the option of complimenting both candidates and even Barack Obama. </li>
     <li> This bot consumed 80% of my brain power for two weeks. It feeds on stress. </li>
 </ul>
 
