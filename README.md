@@ -15,3 +15,14 @@ I loved this comment because while its related to the original comment, its absu
 
 <b> Valid Comments: </b>
 ```
+len(comments)= 1000
+len(top_level_comments)= 26
+len(replies)= 974
+len(valid_top_level_comments)= 11
+len(not_self_replies)= 974
+len(valid_replies)= 479
+========================================
+valid_comments= 503
+========================================
+```
+I believe my score for this homework should probably be 30 points as I completed all tasks and the repository, got at least 100 and 500 valid comments posted, had my bot reply to most upvoted comments, and upvoted certain submissions while using textblob. 
