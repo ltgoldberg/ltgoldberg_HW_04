@@ -9,7 +9,7 @@
 
 <p> </p>
 <b> What the bot does: </b>
-![Reddit Comment](reddit_comment.PNG)
+![Reddit Comment](reddit_comment.png)
 I loved this comment because while its related to the original comment, its absurd enough to be stupidly funny. 
 <a href= "https://www.reddit.com/r/BotTown2/comments/r29czx/comment/hmfh0y5/?utm_source=reddit&utm_medium=web2x&context=3"> Here is the link if you want to see for yourself </a>
 
