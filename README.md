@@ -7,7 +7,7 @@
     <li> This bot consumed 80% of my brain power for two weeks. It feeds on stress. </li>
 </ul>
 
-<p> </p>
+### <p> </p>
 <b> What the bot does: </b>
 ![Reddit Comment](reddit_comment.png)
 I loved this comment because while its related to the original comment, its absurd enough to be stupidly funny. 
